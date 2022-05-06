@@ -22,3 +22,4 @@ following files and directories:
   package name and console handler functions.
 
 - Para actualizar la plantilla poner en la terminal git pull --rebase
+- Enunciado práctica convocatoria extraordinaria : https://uclm-esi.github.io/ssdd-lab/intro_extraordinaria.html
